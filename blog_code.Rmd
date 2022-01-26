@@ -1,7 +1,7 @@
 ---
 title: "How Fast is Asia Growing?"
 author: "Cyrus Tadjiki"
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "24 November 2021"
 output:
   html_document:
     theme: journal
@@ -25,7 +25,7 @@ I collected my data from an open source of world population data by country from
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 ## 2) Loading Packages
 library(pacman)
-pacman::p_load(readr, dplyr, ggplot2, namespace, tidyverse, stargazer, broom, countrycode, data.table, ggthemes, grid, lfe, xtable)
+p_load(readr, dplyr, ggplot2, namespace, tidyverse, stargazer, broom, countrycode, data.table, ggthemes, grid, lfe, xtable)
 ```
   
 ## 2) Introduction
@@ -451,4 +451,4 @@ Asia is growing quickly compared to other Continents and China's effect on their
 
 ### Extra
 
-Wow this assignment was big! I really liked this but I totally wish I could do it again. I should have spent more time looking for better data. This feels a lot more like a real world task vs. weekly discussion posts on reading and responding to classmates responses. I didn't get very great results or spend a lot of time doing fun interesting statistical test but this probably happens to lots of people their first time free todo a data project of their choosing. I hope we get to do something like this in 424 and 425.
+Wow this assignment was big! I really liked this but I totally wish I could do it again. I should have spent more time looking for better data. This feels a lot more like a real world task vs. weekly discussion posts on reading and responding to classmates responses. I didn't get very great results or spend a lot of time doing fun interesting statistical test but this probably happens to lots of people their first time free to do a data project of their choosing. I hope we get to do something like this in the rest of this econometrics sequence. 

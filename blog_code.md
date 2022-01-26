@@ -114,7 +114,7 @@ linear.4 = reg_continent_fact_asia = lm(population~(factor_continent)*year, data
 
 
 % Table created by stargazer v.5.2.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
-% Date and time: Wed, Nov 24, 2021 - 3:05:49 PM
+% Date and time: Tue, Jan 25, 2022 - 6:45:15 PM
 \begin{table}[!htbp] \centering 
   \caption{} 
   \label{} 
@@ -135,7 +135,7 @@ advance & 30 & 42.933 & 10.289 & 25 & 35 & 47.8 & 72 \\
 \end{table} 
 
 % Table created by stargazer v.5.2.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
-% Date and time: Wed, Nov 24, 2021 - 3:05:49 PM
+% Date and time: Tue, Jan 25, 2022 - 6:45:15 PM
 \begin{table}[!htbp] \centering 
   \caption{} 
   \label{} 
